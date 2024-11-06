@@ -1,2 +1,2 @@
 # libzmodem
-Zmodem protocol under TCP
+Zmodem protocol under TCP/IP
