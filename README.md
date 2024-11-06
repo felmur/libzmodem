@@ -21,8 +21,12 @@ mrz             a zmodem receiver, executable, goes under /usr/bin
 
 
 # Credits
-This library is not my own work. After repeatedly trying to compile this library:
+This library is not my own work. 
+I have tried unsuccessfully to compile this library under Archlinux:
 
 [click here](https://github.com/spk121/libzmodem)
 
-I decided to fix it so that it could easily be compiled with cmake.
+So, I decided to fix it so that it could easily be compiled with cmake.
+
+Thanks to Uwe Ohse, Chuck Forsberg, and Michael L. Gran for creating these routines.
+
