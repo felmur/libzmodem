@@ -947,13 +947,13 @@ usage(int exitcode, const char *what)
 	{
 		if (what)
 			log_info("%s: %s",program_name2,what);
-		log_info (_("Try `%s --help' for more information."), program_name);
+        log_info (_("Try `%s --help' for more information."), program_name2);
 		exit(exitcode);
 	}
 
-	display(_("%s version %s"), program_name, VERSION);
+    display(_("%s version %s"), program_name2, VERSION);
 
-	display(_("Usage: %s [options] file ..."), program_name);
+    display(_("Usage: %s [options] file ..."), program_name2);
 	display(_("Send file(s) with ZMODEM protocol"));
 	display(_(
 		"    (Z) = option applies to ZMODEM only\n"
