@@ -24,7 +24,7 @@ mrz, a zmodem receiver, executable, goes under /usr/bin
 This library is not my own work. 
 I have tried unsuccessfully to compile this library under Archlinux:
 
-[click here](https://github.com/spk121/libzmodem)
+[https://github.com/spk121/libzmodem](https://github.com/spk121/libzmodem)
 
 So, I decided to fix it so that it could easily be compiled with cmake.
 
