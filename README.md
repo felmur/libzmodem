@@ -19,6 +19,8 @@ msz, a zmodem sender, executable, goes under /usr/bin
 
 mrz, a zmodem receiver, executable, goes under /usr/bin
 
+# WARNING
+This library does not appear to work properly with other programs that implement the zmodem protocol. In particular, when running msz and receiving files with a program other than mrz, numerous bad CRC errors are reported.
 
 # Credits
 This library is not my own work. 
