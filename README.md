@@ -12,9 +12,13 @@ sudo make install
 
 # Files
 libzmodem.so    library itself, goes under /usr/lib
+
 zmodem.h        include for library, goes under /usr/include
+
 msz             a zmodem sender, executable, goes under /usr/bin
+
 mrz             a zmodem receiver, executable, goes under /usr/bin
+
 
 # Credits
 This library is not my own work. After repeatedly trying to compile this library:
