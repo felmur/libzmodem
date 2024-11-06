@@ -3,13 +3,13 @@ Zmodem protocol under TCP/IP
 
 # HOWTO Compile & Install
 Open a shell in the source directory and then type:
-...
+```
 mkdir build
 cd build
 cmake ../
 make
 sudo make install
-...
+```
 # Files
 libzmodem.so    library itself, goes under /usr/lib
 
