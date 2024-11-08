@@ -24,11 +24,11 @@ This library does not appear to work properly with other programs that implement
 
 # Credits
 This library is not my own work. 
-I have tried unsuccessfully to compile this library under Archlinux:
+I have tried to compile Michael Gran library under Archlinux (see link below):
 
 [https://github.com/spk121/libzmodem](https://github.com/spk121/libzmodem)
 
-So, I decided to fix it so that it could easily be compiled with cmake.
+After a lot of work, I decided to fix it so that it could easily be compiled with cmake.
 
 Thanks to Uwe Ohse, Chuck Forsberg, and Michael L. Gran for creating these routines.
 
